@@ -1,0 +1,6 @@
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\bin\Debug\10001st_prime.exe.config
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\bin\Debug\10001st_prime.exe
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\bin\Debug\10001st_prime.pdb
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\obj\Debug\10001st_prime.csproj.CoreCompileInputs.cache
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\obj\Debug\10001st_prime.exe
+G:\AppsandProjects\ProjectEuler\SolvedProblems\10001st_prime\10001st_prime\obj\Debug\10001st_prime.pdb

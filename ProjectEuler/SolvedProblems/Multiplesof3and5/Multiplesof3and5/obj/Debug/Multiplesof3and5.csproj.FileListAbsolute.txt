@@ -1,0 +1,5 @@
+G:\Apps and Projects\ProjectEuler\SolvedProblems\Multiplesof3and5\Multiplesof3and5\bin\Debug\Multiplesof3and5.exe.config
+G:\Apps and Projects\ProjectEuler\SolvedProblems\Multiplesof3and5\Multiplesof3and5\bin\Debug\Multiplesof3and5.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\Multiplesof3and5\Multiplesof3and5\bin\Debug\Multiplesof3and5.pdb
+G:\Apps and Projects\ProjectEuler\SolvedProblems\Multiplesof3and5\Multiplesof3and5\obj\Debug\Multiplesof3and5.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\Multiplesof3and5\Multiplesof3and5\obj\Debug\Multiplesof3and5.pdb

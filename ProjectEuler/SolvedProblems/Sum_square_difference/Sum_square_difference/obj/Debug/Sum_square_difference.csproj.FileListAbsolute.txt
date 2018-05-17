@@ -1,0 +1,7 @@
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.exe.config
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.exe
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.pdb
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.csprojResolveAssemblyReference.cache
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.csproj.CoreCompileInputs.cache
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.exe
+G:\AppsandProjects\ProjectEuler\SolvedProblems\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.pdb

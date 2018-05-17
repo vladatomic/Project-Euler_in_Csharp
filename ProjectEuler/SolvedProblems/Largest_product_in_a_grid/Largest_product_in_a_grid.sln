@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest_product_in_a_grid", "Largest_product_in_a_grid\Largest_product_in_a_grid.csproj", "{D6F49502-7DB8-41B8-9AE3-3AAF1D55C5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F49502-7DB8-41B8-9AE3-3AAF1D55C5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F49502-7DB8-41B8-9AE3-3AAF1D55C5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F49502-7DB8-41B8-9AE3-3AAF1D55C5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F49502-7DB8-41B8-9AE3-3AAF1D55C5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B4A2B1-E13A-4347-85D9-FF755C908C56}
+	EndGlobalSection
+EndGlobal

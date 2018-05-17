@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplesof3and5", "Multiplesof3and5\Multiplesof3and5.csproj", "{959D61D4-2365-4AD2-989E-23B1646E22C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacciNumbers", "EvenFibonacciNumbers\EvenFibonacciNumbers.csproj", "{B4BC46DF-1585-41C1-AB70-81C89D5791E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959D61D4-2365-4AD2-989E-23B1646E22C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959D61D4-2365-4AD2-989E-23B1646E22C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959D61D4-2365-4AD2-989E-23B1646E22C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959D61D4-2365-4AD2-989E-23B1646E22C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BC46DF-1585-41C1-AB70-81C89D5791E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BC46DF-1585-41C1-AB70-81C89D5791E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BC46DF-1585-41C1-AB70-81C89D5791E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BC46DF-1585-41C1-AB70-81C89D5791E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

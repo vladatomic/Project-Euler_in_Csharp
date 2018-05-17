@@ -1,0 +1,5 @@
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe.config
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.pdb
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb

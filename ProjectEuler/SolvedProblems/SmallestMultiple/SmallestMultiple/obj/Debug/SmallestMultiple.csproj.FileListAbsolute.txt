@@ -1,0 +1,6 @@
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.csprojResolveAssemblyReference.cache
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb

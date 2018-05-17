@@ -1,0 +1,6 @@
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe.config
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.pdb
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csprojResolveAssemblyReference.cache
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.exe
+G:\Apps and Projects\ProjectEuler\SolvedProblems\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.pdb
